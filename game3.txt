@@ -1,7 +1,7 @@
-Borna ima x pobjeda i y poraza!
-Sime ima z pobjeda i n poraza!
+Borna ima 3 pobjeda i 0 poraza!
+Sime ima 0 pobjeda i 3 poraza!
 
 X . X
 o X .
-o . .
+o . X
 
