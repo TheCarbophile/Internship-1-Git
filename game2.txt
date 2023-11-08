@@ -2,6 +2,6 @@ wBorna ima x pobjeda i y poraza!
 Sime ima z pobjeda i n poraza!
 
 . . O
-. X .
+. X X
 X . O
 
